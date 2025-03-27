@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "ESNext",
+    "module": "NodeNext",
+    "noEmit": true,
+    "lib": [
+        "DOM",
+        "ES2022"
+      ],
+    "moduleResolution": "NodeNext",
+  },
+
+  "include": ["./index.js"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@supercat1337/port",
+  "version": "1.0.0",
+  "description": "A simple JavaScript library for finding available ports on your system.",
+  "repository": "https://github.com/supercat1337/port",
+  "homepage": "https://github.com/supercat1337/port",
+  "keywords": [
+    "available port",
+    "port",
+    "port finder",
+    "port checker"
+  ],
+  "license": "MIT",
+  "author": "SuperCat1337",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "create_types": "npx -p typescript tsc --project my.tsconfig.types.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.14"
+  }
+}
