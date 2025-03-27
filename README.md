@@ -1,7 +1,5 @@
 # supercat1337/port
 
-================
-
 ## Overview
 
 A simple JavaScript library for finding available ports on your system.
