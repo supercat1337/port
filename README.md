@@ -66,7 +66,3 @@ checkPort();
 ## License
 
 MIT
-
-```
-Note that I've used the `import` statement to import the functions from the library, and `async/await` to write the example code. I've also removed the `require` statement and the `.then()` method, as they are not needed with ESM.
-```
